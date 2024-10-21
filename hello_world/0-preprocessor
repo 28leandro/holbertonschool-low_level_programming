@@ -1,2 +1,3 @@
 #!/bin/bash
 gcc $CFILLE-E-oc 
+export CFILE=0-main.c
