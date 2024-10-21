@@ -1,2 +1,3 @@
 #!/bin/bash
-gcc $CFILLE-E-oc . 
+gcc $CFILLE-E-oc
+gcc -E gcc "$CFLILE" -o 
