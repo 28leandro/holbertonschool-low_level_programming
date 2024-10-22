@@ -1,8 +1,3 @@
-/*
- * File: 6-size.c
- * Auth: Brennan D Baraban
- */
-
 #include <stdio.h>
 
 /**
@@ -20,3 +15,4 @@ int main(void)
 	printf("Size of a float: %zu byte(s)\n", sizeof(float));
 
 	return (0);
+}
